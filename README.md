@@ -1,4 +1,4 @@
-**<h1>Coffee Orders Dashboard</h1>**
+**<h1>Coffee Sales Dashboard</h1>**
 
 A sales dashboard for a coffee company built with PivotTables, PivotCharts, Slicers and a Timeline filter for interactive, self service reporting.
 
