@@ -5,7 +5,7 @@ A sales dashboard for a coffee company built with PivotTables, PivotCharts, Slic
 <hr>
 
 **<h2>Demo</h2>**
-*Open Coffee_Orders Dashboard.xlsx in Excel, go to the DASHBOARD tab and interact with it*
+*Open [Coffee_Orders_Dashboard.xlsx](Coffee_Orders_Dashboard.xlsx) in Excel, go to the DASHBOARD tab and interact with it*
 
 https://github.com/user-attachments/assets/3045e59f-88be-4af4-922b-37a3bc797aeb
 
