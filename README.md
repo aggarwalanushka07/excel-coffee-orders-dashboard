@@ -7,7 +7,7 @@ A sales dashboard for a coffee company built with PivotTables, PivotCharts, Slic
 **<h2>Demo</h2>**
 *Open Coffee_Orders_Dashboard.xlsx in Excel, go to the DASHBOARD tab and interact with it*
 
-(dashboard image)
+https://github.com/user-attachments/assets/3045e59f-88be-4af4-922b-37a3bc797aeb
 
 **<h3>What it does</h3>**
 - Total Sales Over Time — a trend line broken out by coffee type (Arabica, Excelsa, Liberica, Robusta), filterable by a Timeline slicer
@@ -41,9 +41,9 @@ PivotCharts were built directly from those PivotTables, then arranged onto a sin
 <hr>
 
 **<h3>Key Insights</h3>**
-- The US drives the business. Of ~$45.1K in total sales, the United States accounts for ~79% (~$35.6K), with Ireland (~15%) and the United Kingdom (~6%) far behind.
-- No single coffee type dominates. Arabica, Excelsa, and Liberica each hold a similar ~26-27% share of sales; Robusta trails a bit at ~20%, suggesting a fairly balanced product mix rather than one hero product.
-- Revenue is spread across customers, not concentrated. The top 5 customers each contribute a similar, modest share of total sales (~$278-$317 each) — a healthy sign that the business isn't overly reliant on a handful of big accounts.
+- The US drives the business. Of $45.1K in total sales, the United States accounts for 79% (~$35.6K), with Ireland (15%) and the United Kingdom (6%) far behind.
+- No single coffee type dominates. Arabica, Excelsa and Liberica each hold a similar 26-27% share of sales; Robusta trails a bit at 20%, suggesting a fairly balanced product mix rather than one hero product.
+- Revenue is spread across customers, not concentrated. The top 5 customers each contribute a similar, modest share of total sales ($278-$317 each) — a healthy sign that the business isn't overly reliant on a handful of big accounts.
 
 <hr>
   
